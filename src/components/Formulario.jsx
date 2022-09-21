@@ -90,7 +90,7 @@ function Formulario({ pacientes, setPacientes, paciente, setPaciente }) {
 
 
   return (
-    <div className="md:w-1/2 lg:w-2/5 mx-3 sm:mb-5">
+    <div className="md:w-1/2 lg:w-2/5 mx-3 mb-10">
 
       {/* Texto cabecera */}
       <h2 className="font-black text-3xl text-center" >Seguimiento Pacientes</h2>
